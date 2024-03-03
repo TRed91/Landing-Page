@@ -203,3 +203,16 @@ img {
 .empty2 {
     flex: 1 4 0;
 }
+
+/* ----------SIGNUP SECTION---------- */
+/* --------------FOOTER-------------- */
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    font-size: 18px;
+}
