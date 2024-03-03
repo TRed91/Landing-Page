@@ -163,3 +163,43 @@ img {
 }
 
 /* ----------QUOTE SECTION----------- */
+/* ----------SIGNUP SECTION---------- */
+
+.sts-uber-container {
+    display: flex;
+}
+
+.signup-text-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    margin: 100px 0;
+    gap: 100px;
+    padding: 50px 80px;
+    border-radius: 20px;
+}
+
+.signup-text-section button {
+    border: solid 2px #F9FAF8;
+}
+
+.button-container {
+    flex-shrink: 0;
+}
+
+.sts-p-1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #F9FAF8;
+    margin: 0;
+}
+
+.sts-p-2 {
+    color: #E5E7EB;
+    margin: 0;
+}
+
+.empty2 {
+    flex: 1 4 0;
+}
