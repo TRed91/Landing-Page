@@ -135,3 +135,31 @@ img {
 }
 
 /* ---------INFO IMAGES SECTION------ */
+/* ----------QUOTE SECTION----------- */
+
+.quote-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+    padding: 100px 250px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    margin: 0;
+}
+
+.author {
+    align-self: flex-end;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: #1f2937;
+    margin: 0;
+}
+
+/* ----------QUOTE SECTION----------- */
